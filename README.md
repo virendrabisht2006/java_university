@@ -1,6 +1,6 @@
 # java_university
 
-Git command: --Rebase to master then push
+Git command: --If you are working on your dev branch then how to rebase to master then push
 git status
 git checkout master
 git pull
